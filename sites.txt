@@ -1,2 +1,5 @@
 https://help.gnome.org/users/gnumeric/stable/sect-extending-python.html.en
 https://bspaans.github.io/python-mingus/
+https://www.quora.com/What-is-MIDI-and-how-does-it-work
+https://bitmidi.com/
+https://feross.org/bitmidi/
