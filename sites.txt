@@ -1,0 +1,2 @@
+https://help.gnome.org/users/gnumeric/stable/sect-extending-python.html.en
+https://bspaans.github.io/python-mingus/
